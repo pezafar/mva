@@ -1,6 +1,6 @@
 # MVA Homeworks and projects
 
-This repository contains the assignments and practical sessions done in some of the classes followed during the MCA master in 2021/2022.
+This repository contains the assignments and practical sessions done in some of the classes followed during the MVA master in 2021/2022.
 
 Each subfolder corresponds to one course:
 
